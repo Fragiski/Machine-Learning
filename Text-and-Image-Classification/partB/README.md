@@ -29,12 +29,5 @@ Training logs indicate rapid convergence within early epochs, followed by typica
 - Macro F1: 0.8598 
 - Micro F1: 0.8598 
 
-## Requirements and Execution
-
-Requires Python 3, PyTorch, numpy, and matplotlib .
-
-Run the script:
-python PartB.py
-
 ### Academic Context
 Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
