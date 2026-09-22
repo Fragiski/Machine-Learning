@@ -30,3 +30,6 @@ Requires Python 3, PyTorch, torchvision, numpy, and matplotlib.
 
 Run the script:
 python PartC.py
+
+### Academic Context
+Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
