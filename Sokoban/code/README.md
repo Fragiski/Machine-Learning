@@ -57,4 +57,4 @@ Compile all source files from the project folder
 
 Run the program: java Main
 
-When prompted, enter the file name of the level you want to test (for example level1.txt)[cite: 4, 5]. The program will print the initial state, the solved state, along with push count, total moves, and execution time in milliseconds[cite: 4, 5].
+When prompted, enter the file name of the level you want to test (for example level1.txt). The program will print the initial state, the solved state, along with push count, total moves, and execution time in milliseconds.
