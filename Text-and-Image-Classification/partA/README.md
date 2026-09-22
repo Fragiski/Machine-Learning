@@ -29,12 +29,5 @@ Test Set Metrics:
 - Positive class F1: 0.8720
 - Macro Average F1: 0.8714
 
-## Requirements and Execution
-
-Requires Python 3, scikit-learn, numpy, and matplotlib.
-
-Run the script:
-python PartA.py
-
 ### Academic Context
 Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
