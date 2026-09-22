@@ -24,9 +24,5 @@ Test Set Evaluation:
 
 Class breakdown highlights high recognition on geometrically distinct items (Trouser: 0.99 F1, Bag: 0.99 F1, Sandal: 0.98 F1), while top-wear categories with overlapping silhouettes present higher confusion (Shirt: 0.73 F1).
 
-
-Run the script:
-python PartC.py
-
 ### Academic Context
 Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
