@@ -35,3 +35,6 @@ Requires Python 3, scikit-learn, numpy, and matplotlib.
 
 Run the script:
 python PartA.py
+
+### Academic Context
+Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
