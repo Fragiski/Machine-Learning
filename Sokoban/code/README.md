@@ -47,17 +47,6 @@ $ : Box
   
 " ": Empty floor
 
-#### Requirements and Compilation
-
-Requires JDK 17 or later. 
-
-No external libraries are needed.
-
-Compile all source files from the project folder
-
-Run the program: java Main
-
-When prompted, enter the file name of the level you want to test (for example level1.txt). The program will print the initial state, the solved state, along with push count, total moves, and execution time in milliseconds.
 
 ### Academic Context
 Developed as a group project, coursework for the "Artificial Intelligence" course, Academic Year 2025-26.
