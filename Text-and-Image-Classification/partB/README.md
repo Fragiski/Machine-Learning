@@ -19,7 +19,7 @@ The network replaces bag-of-words representations with sequential modeling and p
 - Optimizer: Adam 
 - Sequence length: 200 
 
-Training logs indicate rapid convergence within early epochs, followed by typical recurrent overfitting on training data as epoch count increases .
+Training logs indicate rapid convergence within early epochs, followed by typical recurrent overfitting on training data as epoch count increases.
 
 ## Test Set Results
 
